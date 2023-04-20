@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a cloud engineer at Capgemini's company.<br>In my beginnings I started as a web developer using nodejs technologies for the Angular back end and front end.<br>I also collaborated developing microservos with Java and spring<br>I have collaborated with a high school for the creation of its landing page, taking the function as UI/UX, highlighting that I have also contributed in the medical area with the creation of an app to save medical prescriptions and appointment schedules
+✅I am currently working as a cloud engineer at Capgemini's company.<br>✅In my beginnings I started as a web developer using nodejs technologies for the Angular back end and front end.<br>✅I also collaborated developing microservos with Java and spring<br>✅I have collaborated with a high school for the creation of its landing page, taking the function as UI/UX.<br>✅highlighting that I have also contributed in the medical area with the creation of an app to save medical prescriptions and appointment schedules
 
 
 ## 🌐 Socials:
